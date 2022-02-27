@@ -187,3 +187,54 @@ hr {
     margin-left: 1.1em;
     color: #2c3e50;
 }
+
+
+.third-box {
+    display: flex;
+    justify-content: center;
+    padding-top: 1em;
+    margin-left: 3.2rem;
+
+}
+
+
+.edu {
+    border-radius: 0.3em;
+    padding: 2em;
+    padding-top: 0;
+    padding-left: 5rem;
+    font-size: 1.3rem;
+    line-height: 2em;
+    background: skyblue;
+}
+
+.edu:hover {
+    background: white;
+}
+
+
+.fourth-box {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    margin-left: 4rem;
+
+}
+
+
+.exp {
+    border-radius: 0.3em;
+    padding: 2em;
+    padding-top: 0;
+    font-size: 1.3rem;
+    background: black;
+    color: white;
+    line-height: 2em;
+    margin-left: 1em;
+
+}
+
+
+.exp:hover {
+    background: orange;
+}
