@@ -304,3 +304,24 @@ hr {
     padding: 4rem 8rem;
     background: #ffdde1;
 }
+
+
+.port-3 {
+    background-image: url("design.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.port-4 {
+    background-image: url("development.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.port-5 {
+    background-image: url("security.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
