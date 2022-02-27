@@ -93,3 +93,39 @@ a:hover {
     margin-left: 1.01em;
     color: black;
 }
+
+
+button {
+    margin-left: 1em;
+    margin-top: 2em;
+    padding: 1em;
+    font-size: 0.9em;
+    border: none;
+    border-radius: 0.5em;
+    cursor: pointer;
+}
+
+
+.hire {
+    padding: 1em 2em;
+    margin-left: 4em;
+    border: black solid 0.2em;
+}
+
+
+.hire:hover {
+    background: orange;
+}
+
+
+.cv {
+    background: black;
+    color: blanchedalmond;
+    border: black solid 0.2em;
+}
+
+
+.cv:hover {
+    background: orange;
+}
+
