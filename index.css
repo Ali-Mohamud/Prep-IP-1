@@ -21,8 +21,7 @@ header {
     display: flex;
     justify-content: space-between;
     background: #ffffff;
-    border-radius: 2em;
-    padding: 0.6em;
+    padding: 0.1em;
 }
 
 
