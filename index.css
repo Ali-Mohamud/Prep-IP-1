@@ -238,3 +238,50 @@ hr {
 .exp:hover {
     background: orange;
 }
+
+
+
+.portfolio {
+    text-align: center;
+    padding-top: 3em;
+}
+
+
+.fifth-box {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2em;
+}
+
+
+.port,
+.port-1,
+.port-2 {
+    border: black solid 0.1em;
+    border: none;
+    border-radius: 1em;
+    padding: 6rem 8rem;
+    background: #ffdde1;
+    text-align: center;
+}
+
+
+.port {
+    background-image: url("1st website.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.port-1 {
+    background-image: url("2nd website.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.port-2 {
+    background-image: url("6th website.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
