@@ -30,3 +30,22 @@ img {
     border-radius: 20em;
     margin-top: 5em;
 }
+
+.box-1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+li {
+    display: inline-block;
+    padding: 1em;
+    font-size: 1.4em;
+    font-family: monospace, sans-serif;
+}
