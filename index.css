@@ -321,7 +321,34 @@ hr {
 
 
 .port-5 {
-    background-image: url("security.png");
+    background-image: url("secure.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    padding-bottom: 8rem;
+}
+
+
+.code-icon {
+    font-size: 8rem;
+}
+
+
+.design {
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Praise', cursive;
+    color: #c79081;
+    padding-top: 6rem;
+    font-weight: bold;
+}
+
+
+.design-3 {
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Praise', cursive;
+    color: #c79081;
+    padding-top: 6rem;
+
+    font-weight: bold;
 }
