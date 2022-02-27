@@ -443,3 +443,25 @@ hr {
     font-weight: bold;
     opacity: 50%;
 }
+
+
+.foot {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.copy {
+    color: white;
+}
+
+
+.media {
+    font-size: 1.3rem;
+    color: white;
+}
+
+
+.media:hover {
+    color: gold;
+}
