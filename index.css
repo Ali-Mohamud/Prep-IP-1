@@ -129,3 +129,20 @@ button {
     background: orange;
 }
 
+
+.about {
+    text-align: center;
+    font-size: 3em;
+    padding-top: 3em;
+    color: rgb(213, 228, 184);
+}
+
+
+hr {
+    height: 5px;
+    border: #d6ae7b;
+    background: #185a9d;
+    margin-bottom: 2em;
+    margin-left: 45%;
+    margin-right: 45%;
+}
