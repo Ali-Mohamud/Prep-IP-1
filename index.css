@@ -436,3 +436,10 @@ hr {
     background: black;
     font-weight: bold;
 }
+
+.message:hover {
+    color: olivedrab;
+    background: skyblue;
+    font-weight: bold;
+    opacity: 50%;
+}
