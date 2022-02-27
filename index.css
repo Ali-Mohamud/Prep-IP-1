@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Montserrat:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Lobster&family=Praise&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(test.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #ffc371;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background: #ffffff;
+    border-radius: 2em;
+    padding: 0.6em;
+}
+
+
