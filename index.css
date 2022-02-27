@@ -355,7 +355,7 @@ hr {
 .contact-me {
     display: flex;
     justify-content: space-around;
-    color: olive;
+    color: rgb(200, 200, 152);
     padding-top: 3rem;
     font-size: 1.6rem;
     font-weight: bold;
@@ -369,11 +369,13 @@ hr {
 }
 
 
+
+
 .last-box {
     display: flex;
     justify-content: space-around;
     background: rgb(213, 228, 184);
-    margin-top: 2rem;
+    margin-top: 0.5rem;
 }
 
 
